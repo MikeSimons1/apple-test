@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "G4NC42442U.com.glasscubes.glasscubes",
+        "components": [
+          {
+            "/": "/catchall/*"
+          },
+          {
+            "/": "/cube/*"
+          }
+          {
+            "/": "*"
+            "exclude": true
+          }
+        ]
+      }
+    ]
+  }
+}
